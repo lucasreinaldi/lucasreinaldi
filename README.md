@@ -11,8 +11,8 @@ Universidade Federal do Norte do Paraná :man_technologist:
 ## About me 
 
 - :earth_americas: I'm from Brazil
-- :heart: I love pixel art
-- :video_game: I like music and games: https://nebulusmusic.ga
+- :video_game: I love pixel art and games: https://dbugclothings.com.br
+- :waxing_gibbous_moon: I'm amused by music: https://nebulusmusic.ga
 - :gem: I really love to develop: https://lucasreinaldi.com.br
 
 ### My Tech Stack
