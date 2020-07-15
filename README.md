@@ -4,9 +4,9 @@
 
 # Hi, I'm Lucas :robot:
 
-SOFTWARE ENGINEER | FULLSTACK | FRONTEND
+FULLSTACK | FRONTEND DEVELOPER
 
-Universidade Federal do Norte do Paraná :man_technologist:
+Federal University of Northern Paraná :man_technologist:
 
 ## About me 
 
@@ -23,7 +23,8 @@ Universidade Federal do Norte do Paraná :man_technologist:
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=000000&labelColor=007acc&color=007acc)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Angular](https://img.shields.io/badge/-Angular-%23F7DF1C?style=flat-square&logo=angular&logoColor=FFFFFF&labelColor=FF0000&color=FF0000)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
 ![Adobe Photoshop](http://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 #### Databases
