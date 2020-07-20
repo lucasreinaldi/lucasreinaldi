@@ -21,8 +21,8 @@ Federal University of Northern Paraná :man_technologist:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Less](https://img.shields.io/badge/-Less-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=CCCC00&color=CCCC00)
+![JavaScript](https://img.shields.io/badge/-jQuery%20-%23F7DF1C?style=flat-square&logo=jquery&logoColor=ffffff&labelColor=0769ad&color=0769ad&textColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=007acc&color=007acc)
 ![Angular](https://img.shields.io/badge/-Angular-%23F7DF1C?style=flat-square&logo=angular&logoColor=FFFFFF&labelColor=FF0000&color=FF0000)
 ![Adobe Photoshop](http://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
@@ -30,7 +30,6 @@ Federal University of Northern Paraná :man_technologist:
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
 ![Microsoft .NET](https://img.shields.io/badge/-Microsoft%20.NET-%23F7DF1C?style=flat-square&logo=.net&logoColor=ffffff&labelColor=2962ff&color=2962ff&textColor=000000)
-
 
 #### Databases
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
